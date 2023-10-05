@@ -1,0 +1,1073 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Uputstvo za popunjavanje prijave perinatalnog i neonatalnog mortaliteta",
+    "section": "",
+    "text": "Uputstvo za popunjavanje prijave perinatalnog moratliteta\nPerinatalni mortalitet predstavlja smrtnost uključuje kasnu fetalnu smrtnosti i smrtnost novorođenčadi tokom prve nedelje života. Prema podacima Svetske zdravstvene organizacije (SZO) za 2019, stopa perinatalne smrtnosti u Srbiji je iznosila 5.4 na 1000 rođene dece izvor. Prosek u Evropskom regionu SZO bio je 6.7 u istoj godini izvor. Stopa neonatalnog mortaliteta u Srbiji bila je 3.8 na 1000 živorođene dece, a u Evropskom regionu bila je 4.6 u 2019 izvor. Proseci na nivou Evropske unije bile su 5.5 i 2.5 u istoj godini izvor izvor.\nOvo uputstvo sadrži spisak pitanja i objašnjenja za ista za koja verujemo da će Vam biti od koristi pri prikupljanju podataka.\nNa slici je Veliki pacifički oktopus (Enteroctopus dofleini). Ovaj glavonožac je verovatno najveća vrsta oktopusa, sa prosečnom težinom od 15 kilograma i prosečnim rasponom od 4.3 metra. Česte su atrakcije u akvarijumima zbog svoje impozantne veličine i raskošne boje.\nPored veličine, krasi je i zavidni nivo inteligenicije. Pacifički oktopus je najinteligentniji beskičmenjak. Mogu da prepoznaju ljude s kojim često dolaze i kontakt, pri čemu menjaju boju i teksturu tela. Imaju sposobnost da rešavaju jednostavne zadatke, otvaraju flaše i alate. Često prave štetu otvarajući ventile akvarijuma ili rastavljajuči skupu opremu.\nVelika pacifička hobotnica nije samo izvanredno stvorenje, već i izuzetna majka. Za razliku od mnogih drugih životinja koje polažu jaja i ostavljaju svoje potomstvo da se brinu sami za sebe, ženka hobotnice se trudi da zaštiti svoje mlade i brine o njima. Nakon što je pažljivo odabrala savršeno mesto za svoja jaja, ona neprestano brine o njima, obezbeđujući da imaju dovoljno kiseonika tako što neprestano raspršuju vodu preko njih svojim delikatnim rukama. Majka nikad ne napušta mrestilište i šest meseci dok traje razvoj jaja, živi isključivoo koristeći zalihe telesnih masnoća.\nKada se jaja izlegu, odanost majke hobotnice postaje još očiglednija. Ona se čvrsto drži svog legla nekoliko nedelja, čuvajući ih od predatora sa nepokolebljivom odlučnošću. Kao da to nije dovoljno, ona marljivo čisti i provetrava jazbinu u kojoj borave njene bebe, stvarajući bezbedan prostor gde mogu da napreduju. Njeni neumorni napori su svi u službi obezbeđivanja opstanka budućih generacija velikih pacifičkih hobotnica.\n\nIzjava zahvalnosti\nOvo uputstvo je nastalo uz veliku podršku Dečjeg fonda Ujedinjenih nacija (United Nations Children’s Fund- UNICEF). UNICEF se finansira isključivo dobrovoljnim prilozim, poklonima i prodajom UNICEF-ovih čestitki. Ako želite da se priključite Klubu prijatelja UNICEF-a i podržite aktivnosti ove organizacije kliknite na link."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "intro.html#identifikacioni-broj-novorođenčeta--broj-porođajnog-protokola",
+    "href": "intro.html#identifikacioni-broj-novorođenčeta--broj-porođajnog-protokola",
+    "title": "1  Opšti podaci",
+    "section": "1.1 Identifikacioni broj novorođenčeta- Broj porođajnog protokola",
+    "text": "1.1 Identifikacioni broj novorođenčeta- Broj porođajnog protokola\nTip vrednosti: Tekst\nLogička kontrola: Obavezno je uneti vrednost. Broj je alfanumerički karakter i sastoji se od koda ustanove, godine (četiri cifre), broja porodjaja u toj ustanovi (četiri cifre ), rednog broja deteta u datom porodjaju (jedna cifra manja ili jednaka broju fetusa u ovoj trudnoći). Elementi su razdvojeni crticom. KOD-GGGG-XYZWOU-b"
+  },
+  {
+    "objectID": "intro.html#vrsta-perinatalne-smrti",
+    "href": "intro.html#vrsta-perinatalne-smrti",
+    "title": "1  Opšti podaci",
+    "section": "1.2 Vrsta perinatalne smrti",
+    "text": "1.2 Vrsta perinatalne smrti\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nAntepartalno\n\n\n2\nIntrapartalno\n\n\n3\nRana neonatalna smrt\n\n\n4\nKasna neonatalna smrt"
+  },
+  {
+    "objectID": "intro.html#broj-fetusa-u-ovoj-trudnoći",
+    "href": "intro.html#broj-fetusa-u-ovoj-trudnoći",
+    "title": "1  Opšti podaci",
+    "section": "1.3 Broj fetusa u ovoj trudnoći",
+    "text": "1.3 Broj fetusa u ovoj trudnoći\nTip vrednosti: Ceo broj.\nLogička kontrola: Broj manji od 5."
+  },
+  {
+    "objectID": "intro.html#datum-rođenja-novorođenčeta",
+    "href": "intro.html#datum-rođenja-novorođenčeta",
+    "title": "1  Opšti podaci",
+    "section": "1.4 Datum rođenja novorođenčeta",
+    "text": "1.4 Datum rođenja novorođenčeta\nTip vrednosti: Datum."
+  },
+  {
+    "objectID": "intro.html#sat-rođenja-novorođenčeta-od-00-do-24",
+    "href": "intro.html#sat-rođenja-novorođenčeta-od-00-do-24",
+    "title": "1  Opšti podaci",
+    "section": "1.5 Sat rođenja novorođenčeta (od 00 do 24)",
+    "text": "1.5 Sat rođenja novorođenčeta (od 00 do 24)\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 0 do 24."
+  },
+  {
+    "objectID": "intro.html#minut-rođenja-novorođenčeta",
+    "href": "intro.html#minut-rođenja-novorođenčeta",
+    "title": "1  Opšti podaci",
+    "section": "1.6 Minut rođenja novorođenčeta",
+    "text": "1.6 Minut rođenja novorođenčeta\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 0 do 59."
+  },
+  {
+    "objectID": "intro.html#telesna-težina-novorođenčeta-na-rođenju-u-gramima",
+    "href": "intro.html#telesna-težina-novorođenčeta-na-rođenju-u-gramima",
+    "title": "1  Opšti podaci",
+    "section": "1.7 Telesna težina novorođenčeta na rođenju (u gramima)",
+    "text": "1.7 Telesna težina novorođenčeta na rođenju (u gramima)\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 300 do 5999."
+  },
+  {
+    "objectID": "intro.html#telesna-dužina-novorođenčeta-na-rođenju-u-mm",
+    "href": "intro.html#telesna-dužina-novorođenčeta-na-rođenju-u-mm",
+    "title": "1  Opšti podaci",
+    "section": "1.8 Telesna dužina novorođenčeta na rođenju (u mm)",
+    "text": "1.8 Telesna dužina novorođenčeta na rođenju (u mm)\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 50 do 1000."
+  },
+  {
+    "objectID": "intro.html#pol-novorođenčeta",
+    "href": "intro.html#pol-novorođenčeta",
+    "title": "1  Opšti podaci",
+    "section": "1.9 Pol novorođenčeta",
+    "text": "1.9 Pol novorođenčeta\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nMuški\n\n\n2\nŽenski\n\n\n3\nNepoznato"
+  },
+  {
+    "objectID": "intro.html#gestacijska-starost-poznata",
+    "href": "intro.html#gestacijska-starost-poznata",
+    "title": "1  Opšti podaci",
+    "section": "1.10 Gestacijska starost poznata",
+    "text": "1.10 Gestacijska starost poznata\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "intro.html#broj-nedelja-gestacije",
+    "href": "intro.html#broj-nedelja-gestacije",
+    "title": "1  Opšti podaci",
+    "section": "1.11 Broj nedelja gestacije",
+    "text": "1.11 Broj nedelja gestacije\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 22 do 42."
+  },
+  {
+    "objectID": "intro.html#broj-dana-gestacije",
+    "href": "intro.html#broj-dana-gestacije",
+    "title": "1  Opšti podaci",
+    "section": "1.12 Broj dana gestacije",
+    "text": "1.12 Broj dana gestacije\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 0 do 6."
+  },
+  {
+    "objectID": "intro.html#način-utvrđivanja-gestacijske-starosti",
+    "href": "intro.html#način-utvrđivanja-gestacijske-starosti",
+    "title": "1  Opšti podaci",
+    "section": "1.13 Način utvrđivanja gestacijske starosti",
+    "text": "1.13 Način utvrđivanja gestacijske starosti\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPoslednje menstruacije\n\n\n2\nUZ"
+  },
+  {
+    "objectID": "intro.html#apgar-skor-1.minut",
+    "href": "intro.html#apgar-skor-1.minut",
+    "title": "1  Opšti podaci",
+    "section": "1.14 Apgar skor (1.minut)",
+    "text": "1.14 Apgar skor (1.minut)\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 0 do 10."
+  },
+  {
+    "objectID": "intro.html#apgar-skor-5.minut",
+    "href": "intro.html#apgar-skor-5.minut",
+    "title": "1  Opšti podaci",
+    "section": "1.15 Apgar skor (5.minut)",
+    "text": "1.15 Apgar skor (5.minut)\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 0 do 10."
+  },
+  {
+    "objectID": "intro.html#datum-prebacivanja-poloda-u-drugu-ustanovu",
+    "href": "intro.html#datum-prebacivanja-poloda-u-drugu-ustanovu",
+    "title": "1  Opšti podaci",
+    "section": "1.16 Datum prebacivanja poloda u drugu ustanovu",
+    "text": "1.16 Datum prebacivanja poloda u drugu ustanovu\nTip vrednosti: Datum."
+  },
+  {
+    "objectID": "intro.html#poznato-vreme-smrti-ploda",
+    "href": "intro.html#poznato-vreme-smrti-ploda",
+    "title": "1  Opšti podaci",
+    "section": "1.17 Poznato vreme smrti ploda",
+    "text": "1.17 Poznato vreme smrti ploda\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "intro.html#datum-smrti-ploda",
+    "href": "intro.html#datum-smrti-ploda",
+    "title": "1  Opšti podaci",
+    "section": "1.18 Datum smrti ploda",
+    "text": "1.18 Datum smrti ploda\nTip vrednosti: Datum.\nLogička kontrola: Format je DD/MM/GGGG."
+  },
+  {
+    "objectID": "intro.html#sat-smrti-ploda-od-00-do-24",
+    "href": "intro.html#sat-smrti-ploda-od-00-do-24",
+    "title": "1  Opšti podaci",
+    "section": "1.19 Sat smrti ploda (od 00 do 24)",
+    "text": "1.19 Sat smrti ploda (od 00 do 24)\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 0 do 24."
+  },
+  {
+    "objectID": "intro.html#minut-smrti-ploda",
+    "href": "intro.html#minut-smrti-ploda",
+    "title": "1  Opšti podaci",
+    "section": "1.20 Minut smrti ploda",
+    "text": "1.20 Minut smrti ploda\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 0 do 59."
+  },
+  {
+    "objectID": "intro.html#mesto-nastanka-fetalne-smrti",
+    "href": "intro.html#mesto-nastanka-fetalne-smrti",
+    "title": "1  Opšti podaci",
+    "section": "1.21 Mesto nastanka fetalne smrti",
+    "text": "1.21 Mesto nastanka fetalne smrti\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nIzvan bolčnike ustanove\n\n\n2\nU bolničkoj ustanove"
+  },
+  {
+    "objectID": "intro.html#datum-prijema-trudnice-u-zdravstvenu-ustanovu",
+    "href": "intro.html#datum-prijema-trudnice-u-zdravstvenu-ustanovu",
+    "title": "1  Opšti podaci",
+    "section": "1.22 Datum prijema trudnice u zdravstvenu ustanovu",
+    "text": "1.22 Datum prijema trudnice u zdravstvenu ustanovu\nTip vrednosti: Datum."
+  },
+  {
+    "objectID": "intro.html#sat-prijema-trudnice-od-00-do-24-u-zdravstvenu-ustanovu",
+    "href": "intro.html#sat-prijema-trudnice-od-00-do-24-u-zdravstvenu-ustanovu",
+    "title": "1  Opšti podaci",
+    "section": "1.23 Sat prijema trudnice (od 00 do 24) u zdravstvenu ustanovu",
+    "text": "1.23 Sat prijema trudnice (od 00 do 24) u zdravstvenu ustanovu\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 0 do 24."
+  },
+  {
+    "objectID": "intro.html#minut-prijema-trudnice-u-zdravstvenu-ustanovu",
+    "href": "intro.html#minut-prijema-trudnice-u-zdravstvenu-ustanovu",
+    "title": "1  Opšti podaci",
+    "section": "1.24 Minut prijema trudnice u zdravstvenu ustanovu",
+    "text": "1.24 Minut prijema trudnice u zdravstvenu ustanovu\nTip vrednosti: Ceo broj.\nLogička kontrola: Vrednost od 0 do 59."
+  },
+  {
+    "objectID": "intro.html#da-li-je-primljen-u-zdravstvenu-ustanovu-u-prvih-24-sata-od-rođenja",
+    "href": "intro.html#da-li-je-primljen-u-zdravstvenu-ustanovu-u-prvih-24-sata-od-rođenja",
+    "title": "1  Opšti podaci",
+    "section": "1.25 Da li je primljen u zdravstvenu ustanovu u prvih 24 sata od rođenja?",
+    "text": "1.25 Da li je primljen u zdravstvenu ustanovu u prvih 24 sata od rođenja?\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe\n\n\n\nLogička vrednost: Ako je datum rođenja novorođenčeta jednak datumu prijema trudnice u zdravstvenu ustanovu, obavezan je odgovor Da.\nNapomena: Ne odnosi se na Ex."
+  },
+  {
+    "objectID": "intro.html#da-li-su-plod-i-posteljica-upućeni-na-obdukciju",
+    "href": "intro.html#da-li-su-plod-i-posteljica-upućeni-na-obdukciju",
+    "title": "1  Opšti podaci",
+    "section": "1.26 Da li su plod i posteljica upućeni na obdukciju?",
+    "text": "1.26 Da li su plod i posteljica upućeni na obdukciju?\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "opsti.html#identifikacioni-broj-novorođenčeta--broj-porođajnog-protokola",
+    "href": "opsti.html#identifikacioni-broj-novorođenčeta--broj-porođajnog-protokola",
+    "title": "1  Opšti podaci",
+    "section": "1.1 Identifikacioni broj novorođenčeta- Broj porođajnog protokola",
+    "text": "1.1 Identifikacioni broj novorođenčeta- Broj porođajnog protokola\nTip vrednosti: Tekst\nLogička kontrola: Obavezno je uneti vrednost. Broj je alfanumerički karakter i sastoji se od koda ustanove, godine (četiri cifre), broja porodjaja u toj ustanovi (četiri cifre ), rednog broja deteta u datom porodjaju (jedna cifra manja ili jednaka broju fetusa u ovoj trudnoći). Elementi su razdvojeni crticom. KOD-GGGG-XYZWOU-b"
+  },
+  {
+    "objectID": "opsti.html#vrsta-perinatalne-smrti",
+    "href": "opsti.html#vrsta-perinatalne-smrti",
+    "title": "1  Opšti podaci",
+    "section": "1.2 Vrsta perinatalne smrti",
+    "text": "1.2 Vrsta perinatalne smrti\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nAntepartalno\n\n\n2\nIntrapartalno\n\n\n3\nRana neonatalna smrt\n\n\n4\nKasna neonatalna smrt"
+  },
+  {
+    "objectID": "opsti.html#broj-fetusa-u-ovoj-trudnoći",
+    "href": "opsti.html#broj-fetusa-u-ovoj-trudnoći",
+    "title": "1  Opšti podaci",
+    "section": "1.3 Broj fetusa u ovoj trudnoći",
+    "text": "1.3 Broj fetusa u ovoj trudnoći\nTip vrednosti: Ceo broj. Broj manji od 5."
+  },
+  {
+    "objectID": "opsti.html#datum-rođenja-novorođenčeta",
+    "href": "opsti.html#datum-rođenja-novorođenčeta",
+    "title": "1  Opšti podaci",
+    "section": "1.4 Datum rođenja novorođenčeta",
+    "text": "1.4 Datum rođenja novorođenčeta\nTip vrednosti: Datum."
+  },
+  {
+    "objectID": "opsti.html#sat-rođenja-novorođenčeta-od-00-do-24",
+    "href": "opsti.html#sat-rođenja-novorođenčeta-od-00-do-24",
+    "title": "1  Opšti podaci",
+    "section": "1.5 Sat rođenja novorođenčeta (od 00 do 24)",
+    "text": "1.5 Sat rođenja novorođenčeta (od 00 do 24)\nTip vrednosti: Ceo broj. Vrednost od 0 do 24."
+  },
+  {
+    "objectID": "opsti.html#minut-rođenja-novorođenčeta",
+    "href": "opsti.html#minut-rođenja-novorođenčeta",
+    "title": "1  Opšti podaci",
+    "section": "1.6 Minut rođenja novorođenčeta",
+    "text": "1.6 Minut rođenja novorođenčeta\nTip vrednosti: Ceo broj. Vrednost od 0 do 59."
+  },
+  {
+    "objectID": "opsti.html#telesna-težina-novorođenčeta-na-rođenju-u-gramima",
+    "href": "opsti.html#telesna-težina-novorođenčeta-na-rođenju-u-gramima",
+    "title": "1  Opšti podaci",
+    "section": "1.7 Telesna težina novorođenčeta na rođenju (u gramima)",
+    "text": "1.7 Telesna težina novorođenčeta na rođenju (u gramima)\nTip vrednosti: Ceo broj. Vrednost od 300 do 5999."
+  },
+  {
+    "objectID": "opsti.html#telesna-dužina-novorođenčeta-na-rođenju-u-mm",
+    "href": "opsti.html#telesna-dužina-novorođenčeta-na-rođenju-u-mm",
+    "title": "1  Opšti podaci",
+    "section": "1.8 Telesna dužina novorođenčeta na rođenju (u mm)",
+    "text": "1.8 Telesna dužina novorođenčeta na rođenju (u mm)\nTip vrednosti: Ceo broj. Vrednost od 50 do 1000."
+  },
+  {
+    "objectID": "opsti.html#pol-novorođenčeta",
+    "href": "opsti.html#pol-novorođenčeta",
+    "title": "1  Opšti podaci",
+    "section": "1.9 Pol novorođenčeta",
+    "text": "1.9 Pol novorođenčeta\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nMuški\n\n\n2\nŽenski\n\n\n3\nNepoznato"
+  },
+  {
+    "objectID": "opsti.html#gestacijska-starost-poznata",
+    "href": "opsti.html#gestacijska-starost-poznata",
+    "title": "1  Opšti podaci",
+    "section": "1.10 Gestacijska starost poznata",
+    "text": "1.10 Gestacijska starost poznata\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "opsti.html#broj-nedelja-gestacije",
+    "href": "opsti.html#broj-nedelja-gestacije",
+    "title": "1  Opšti podaci",
+    "section": "1.11 Broj nedelja gestacije",
+    "text": "1.11 Broj nedelja gestacije\nTip vrednosti: Ceo broj. Vrednost od 22 do 42."
+  },
+  {
+    "objectID": "opsti.html#broj-dana-gestacije",
+    "href": "opsti.html#broj-dana-gestacije",
+    "title": "1  Opšti podaci",
+    "section": "1.12 Broj dana gestacije",
+    "text": "1.12 Broj dana gestacije\nTip vrednosti: Ceo broj. Vrednost od 0 do 6."
+  },
+  {
+    "objectID": "opsti.html#način-utvrđivanja-gestacijske-starosti",
+    "href": "opsti.html#način-utvrđivanja-gestacijske-starosti",
+    "title": "1  Opšti podaci",
+    "section": "1.13 Način utvrđivanja gestacijske starosti",
+    "text": "1.13 Način utvrđivanja gestacijske starosti\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPoslednje menstruacije\n\n\n2\nUZ"
+  },
+  {
+    "objectID": "opsti.html#apgar-skor-1.minut",
+    "href": "opsti.html#apgar-skor-1.minut",
+    "title": "1  Opšti podaci",
+    "section": "1.14 Apgar skor (1.minut)",
+    "text": "1.14 Apgar skor (1.minut)\nTip vrednosti: Ceo broj. Vrednost od 0 do 10."
+  },
+  {
+    "objectID": "opsti.html#apgar-skor-5.minut",
+    "href": "opsti.html#apgar-skor-5.minut",
+    "title": "1  Opšti podaci",
+    "section": "1.15 Apgar skor (5.minut)",
+    "text": "1.15 Apgar skor (5.minut)\nTip vrednosti: Ceo broj. Vrednost od 0 do 10."
+  },
+  {
+    "objectID": "opsti.html#datum-prebacivanja-poloda-u-drugu-ustanovu",
+    "href": "opsti.html#datum-prebacivanja-poloda-u-drugu-ustanovu",
+    "title": "1  Opšti podaci",
+    "section": "1.16 Datum prebacivanja poloda u drugu ustanovu",
+    "text": "1.16 Datum prebacivanja poloda u drugu ustanovu\nTip vrednosti: Datum."
+  },
+  {
+    "objectID": "opsti.html#poznato-vreme-smrti-ploda",
+    "href": "opsti.html#poznato-vreme-smrti-ploda",
+    "title": "1  Opšti podaci",
+    "section": "1.17 Poznato vreme smrti ploda",
+    "text": "1.17 Poznato vreme smrti ploda\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "opsti.html#datum-smrti-ploda",
+    "href": "opsti.html#datum-smrti-ploda",
+    "title": "1  Opšti podaci",
+    "section": "1.18 Datum smrti ploda",
+    "text": "1.18 Datum smrti ploda\nTip vrednosti: Datum. Format je DD/MM/GGGG."
+  },
+  {
+    "objectID": "opsti.html#sat-smrti-ploda-od-00-do-24",
+    "href": "opsti.html#sat-smrti-ploda-od-00-do-24",
+    "title": "1  Opšti podaci",
+    "section": "1.19 Sat smrti ploda (od 00 do 24)",
+    "text": "1.19 Sat smrti ploda (od 00 do 24)\nTip vrednosti: Ceo broj. Vrednost od 0 do 24."
+  },
+  {
+    "objectID": "opsti.html#minut-smrti-ploda",
+    "href": "opsti.html#minut-smrti-ploda",
+    "title": "1  Opšti podaci",
+    "section": "1.20 Minut smrti ploda",
+    "text": "1.20 Minut smrti ploda\nTip vrednosti: Ceo broj. Vrednost od 0 do 59."
+  },
+  {
+    "objectID": "opsti.html#mesto-nastanka-fetalne-smrti",
+    "href": "opsti.html#mesto-nastanka-fetalne-smrti",
+    "title": "1  Opšti podaci",
+    "section": "1.21 Mesto nastanka fetalne smrti",
+    "text": "1.21 Mesto nastanka fetalne smrti\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nIzvan bolčnike ustanove\n\n\n2\nU bolničkoj ustanove"
+  },
+  {
+    "objectID": "opsti.html#datum-prijema-trudnice-u-zdravstvenu-ustanovu",
+    "href": "opsti.html#datum-prijema-trudnice-u-zdravstvenu-ustanovu",
+    "title": "1  Opšti podaci",
+    "section": "1.22 Datum prijema trudnice u zdravstvenu ustanovu",
+    "text": "1.22 Datum prijema trudnice u zdravstvenu ustanovu\nTip vrednosti: Datum."
+  },
+  {
+    "objectID": "opsti.html#sat-prijema-trudnice-od-00-do-24-u-zdravstvenu-ustanovu",
+    "href": "opsti.html#sat-prijema-trudnice-od-00-do-24-u-zdravstvenu-ustanovu",
+    "title": "1  Opšti podaci",
+    "section": "1.23 Sat prijema trudnice (od 00 do 24) u zdravstvenu ustanovu",
+    "text": "1.23 Sat prijema trudnice (od 00 do 24) u zdravstvenu ustanovu\nTip vrednosti: Ceo broj. Vrednost od 0 do 24."
+  },
+  {
+    "objectID": "opsti.html#minut-prijema-trudnice-u-zdravstvenu-ustanovu",
+    "href": "opsti.html#minut-prijema-trudnice-u-zdravstvenu-ustanovu",
+    "title": "1  Opšti podaci",
+    "section": "1.24 Minut prijema trudnice u zdravstvenu ustanovu",
+    "text": "1.24 Minut prijema trudnice u zdravstvenu ustanovu\nTip vrednosti: Ceo broj. Vrednost od 0 do 59."
+  },
+  {
+    "objectID": "opsti.html#da-li-je-primljen-u-zdravstvenu-ustanovu-u-prvih-24-sata-od-rođenja",
+    "href": "opsti.html#da-li-je-primljen-u-zdravstvenu-ustanovu-u-prvih-24-sata-od-rođenja",
+    "title": "1  Opšti podaci",
+    "section": "1.25 Da li je primljen u zdravstvenu ustanovu u prvih 24 sata od rođenja?",
+    "text": "1.25 Da li je primljen u zdravstvenu ustanovu u prvih 24 sata od rođenja?\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe\n\n\n\nNapomena : Ako je datum rođenja novorođenčeta jednak datumu prijema trudnice u zdravstvenu ustanovu, obavezan je odgovor Da.\n\nNe odnosi se na Ex."
+  },
+  {
+    "objectID": "opsti.html#da-li-su-plod-i-posteljica-upućeni-na-obdukciju",
+    "href": "opsti.html#da-li-su-plod-i-posteljica-upućeni-na-obdukciju",
+    "title": "1  Opšti podaci",
+    "section": "1.26 Da li su plod i posteljica upućeni na obdukciju?",
+    "text": "1.26 Da li su plod i posteljica upućeni na obdukciju?\nTip vrednosti: Šifarnik.\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#broj-trudnoća",
+    "href": "akuserska_anamneza.html#broj-trudnoća",
+    "title": "2  Akušerska anamneza",
+    "section": "2.1 Broj trudnoća",
+    "text": "2.1 Broj trudnoća\nTip vrednosti: ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#broj-porođaja",
+    "href": "akuserska_anamneza.html#broj-porođaja",
+    "title": "2  Akušerska anamneza",
+    "section": "2.2 Broj porođaja",
+    "text": "2.2 Broj porođaja\nTip vrednosti: ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-prvoj-trudnoći",
+    "href": "akuserska_anamneza.html#prvi-plod-u-prvoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.3 Prvi plod u prvoj trudnoći",
+    "text": "2.3 Prvi plod u prvoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-prvoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#prvi-plod-u-prvoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.4 Prvi plod u prvoj trudnoći - Telesna masa",
+    "text": "2.4 Prvi plod u prvoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-prvoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#prvi-plod-u-prvoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.5 Prvi plod u prvoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.5 Prvi plod u prvoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-prvoj-trudnoći",
+    "href": "akuserska_anamneza.html#drugi-plod-u-prvoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.6 Drugi plod u prvoj trudnoći",
+    "text": "2.6 Drugi plod u prvoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-prvoj-trudnoći",
+    "href": "akuserska_anamneza.html#treći-plod-u-prvoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.9 Treći plod u prvoj trudnoći",
+    "text": "2.9 Treći plod u prvoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-prvoj-trudnoći",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-prvoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.12 Četvrti plod u prvoj trudnoći",
+    "text": "2.12 Četvrti plod u prvoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-drugoj-trudnoći",
+    "href": "akuserska_anamneza.html#prvi-plod-u-drugoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.15 Prvi plod u drugoj trudnoći",
+    "text": "2.15 Prvi plod u drugoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-drugoj-trudnoći",
+    "href": "akuserska_anamneza.html#drugi-plod-u-drugoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.18 Drugi plod u drugoj trudnoći",
+    "text": "2.18 Drugi plod u drugoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-drugoj-trudnoći",
+    "href": "akuserska_anamneza.html#treći-plod-u-drugoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.21 Treći plod u drugoj trudnoći",
+    "text": "2.21 Treći plod u drugoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-drugoj-trudnoći",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-drugoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.24 Četvrti plod u drugoj trudnoći",
+    "text": "2.24 Četvrti plod u drugoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-trećoj-trudnoći",
+    "href": "akuserska_anamneza.html#prvi-plod-u-trećoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.27 Prvi plod u trećoj trudnoći",
+    "text": "2.27 Prvi plod u trećoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-trećoj-trudnoći",
+    "href": "akuserska_anamneza.html#drugi-plod-u-trećoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.30 Drugi plod u trećoj trudnoći",
+    "text": "2.30 Drugi plod u trećoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-trećoj-trudnoći",
+    "href": "akuserska_anamneza.html#treći-plod-u-trećoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.33 Treći plod u trećoj trudnoći",
+    "text": "2.33 Treći plod u trećoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-trećoj-trudnoći",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-trećoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.36 Četvrti plod u trećoj trudnoći",
+    "text": "2.36 Četvrti plod u trećoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-četvrtoj-trudnoći",
+    "href": "akuserska_anamneza.html#prvi-plod-u-četvrtoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.39 Prvi plod u četvrtoj trudnoći",
+    "text": "2.39 Prvi plod u četvrtoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-četvrtoj-trudnoći",
+    "href": "akuserska_anamneza.html#drugi-plod-u-četvrtoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.42 Drugi plod u četvrtoj trudnoći",
+    "text": "2.42 Drugi plod u četvrtoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-četvrtoj-trudnoći",
+    "href": "akuserska_anamneza.html#treći-plod-u-četvrtoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.45 Treći plod u četvrtoj trudnoći",
+    "text": "2.45 Treći plod u četvrtoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-četvrtoj-trudnoći",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-četvrtoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.48 Četvrti plod u četvrtoj trudnoći",
+    "text": "2.48 Četvrti plod u četvrtoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-prvoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#drugi-plod-u-prvoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.7 Drugi plod u prvoj trudnoći - Telesna masa",
+    "text": "2.7 Drugi plod u prvoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-prvoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#drugi-plod-u-prvoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.8 Drugi plod u prvoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.8 Drugi plod u prvoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-prvoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#treći-plod-u-prvoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.10 Treći plod u prvoj trudnoći - Telesna masa",
+    "text": "2.10 Treći plod u prvoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-prvoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#treći-plod-u-prvoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.11 Treći plod u prvoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.11 Treći plod u prvoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-prvoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-prvoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.13 Četvrti plod u prvoj trudnoći - Telesna masa",
+    "text": "2.13 Četvrti plod u prvoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-prvoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-prvoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.14 Četvrti plod u prvoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.14 Četvrti plod u prvoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-drugoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#prvi-plod-u-drugoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.16 Prvi plod u drugoj trudnoći - Telesna masa",
+    "text": "2.16 Prvi plod u drugoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-drugoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#prvi-plod-u-drugoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.17 Prvi plod u drugoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.17 Prvi plod u drugoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-drugoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#drugi-plod-u-drugoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.19 Drugi plod u drugoj trudnoći - Telesna masa",
+    "text": "2.19 Drugi plod u drugoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-drugoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#drugi-plod-u-drugoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.20 Drugi plod u drugoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.20 Drugi plod u drugoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-drugoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#treći-plod-u-drugoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.22 Treći plod u drugoj trudnoći - Telesna masa",
+    "text": "2.22 Treći plod u drugoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-drugoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#treći-plod-u-drugoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.23 Treći plod u drugoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.23 Treći plod u drugoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-drugoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-drugoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.25 Četvrti plod u drugoj trudnoći - Telesna masa",
+    "text": "2.25 Četvrti plod u drugoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-drugoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-drugoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.26 Četvrti plod u drugoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.26 Četvrti plod u drugoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-trećoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#prvi-plod-u-trećoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.28 Prvi plod u trećoj trudnoći - Telesna masa",
+    "text": "2.28 Prvi plod u trećoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-trećoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#prvi-plod-u-trećoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.29 Prvi plod u trećoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.29 Prvi plod u trećoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-trećoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#drugi-plod-u-trećoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.31 Drugi plod u trećoj trudnoći - Telesna masa",
+    "text": "2.31 Drugi plod u trećoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-trećoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#drugi-plod-u-trećoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.32 Drugi plod u trećoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.32 Drugi plod u trećoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-trećoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#treći-plod-u-trećoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.34 Treći plod u trećoj trudnoći - Telesna masa",
+    "text": "2.34 Treći plod u trećoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-trećoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#treći-plod-u-trećoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.35 Treći plod u trećoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.35 Treći plod u trećoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-trećoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-trećoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.37 Četvrti plod u trećoj trudnoći - Telesna masa",
+    "text": "2.37 Četvrti plod u trećoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-trećoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-trećoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.38 Četvrti plod u trećoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.38 Četvrti plod u trećoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-četvrtoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#prvi-plod-u-četvrtoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.40 Prvi plod u četvrtoj trudnoći - Telesna masa",
+    "text": "2.40 Prvi plod u četvrtoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-četvrtoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#prvi-plod-u-četvrtoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.41 Prvi plod u četvrtoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.41 Prvi plod u četvrtoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-četvrtoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#drugi-plod-u-četvrtoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.43 Drugi plod u četvrtoj trudnoći - Telesna masa",
+    "text": "2.43 Drugi plod u četvrtoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-četvrtoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#drugi-plod-u-četvrtoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.44 Drugi plod u četvrtoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.44 Drugi plod u četvrtoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-četvrtoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#treći-plod-u-četvrtoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.46 Treći plod u četvrtoj trudnoći - Telesna masa",
+    "text": "2.46 Treći plod u četvrtoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-četvrtoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#treći-plod-u-četvrtoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.47 Treći plod u četvrtoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.47 Treći plod u četvrtoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-četvrtoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-četvrtoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.49 Četvrti plod u četvrtoj trudnoći - Telesna masa",
+    "text": "2.49 Četvrti plod u četvrtoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-četvrtoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-četvrtoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.50 Četvrti plod u četvrtoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.50 Četvrti plod u četvrtoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-petoj-trudnoći",
+    "href": "akuserska_anamneza.html#prvi-plod-u-petoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.51 Prvi plod u petoj trudnoći",
+    "text": "2.51 Prvi plod u petoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-petoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#prvi-plod-u-petoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.52 Prvi plod u petoj trudnoći - Telesna masa",
+    "text": "2.52 Prvi plod u petoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#prvi-plod-u-petoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#prvi-plod-u-petoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.53 Prvi plod u petoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.53 Prvi plod u petoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-petoj-trudnoći",
+    "href": "akuserska_anamneza.html#drugi-plod-u-petoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.54 Drugi plod u petoj trudnoći",
+    "text": "2.54 Drugi plod u petoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-petoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#drugi-plod-u-petoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.55 Drugi plod u petoj trudnoći - Telesna masa",
+    "text": "2.55 Drugi plod u petoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#drugi-plod-u-petoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#drugi-plod-u-petoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.56 Drugi plod u petoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.56 Drugi plod u petoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-petoj-trudnoći",
+    "href": "akuserska_anamneza.html#treći-plod-u-petoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.57 Treći plod u petoj trudnoći",
+    "text": "2.57 Treći plod u petoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-petoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#treći-plod-u-petoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.58 Treći plod u petoj trudnoći - Telesna masa",
+    "text": "2.58 Treći plod u petoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#treći-plod-u-petoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#treći-plod-u-petoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.59 Treći plod u petoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.59 Treći plod u petoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-petoj-trudnoći",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-petoj-trudnoći",
+    "title": "2  Akušerska anamneza",
+    "section": "2.60 Četvrti plod u petoj trudnoći",
+    "text": "2.60 Četvrti plod u petoj trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nŽivorođeno\n\n\n2\nMrtvorođeno\n\n\n3\nMissed ab.\n\n\n4\nClassic ab."
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-petoj-trudnoći---telesna-masa",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-petoj-trudnoći---telesna-masa",
+    "title": "2  Akušerska anamneza",
+    "section": "2.61 Četvrti plod u petoj trudnoći - Telesna masa",
+    "text": "2.61 Četvrti plod u petoj trudnoći - Telesna masa\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "akuserska_anamneza.html#četvrti-plod-u-petoj-trudnoći---terimskopreterminsko",
+    "href": "akuserska_anamneza.html#četvrti-plod-u-petoj-trudnoći---terimskopreterminsko",
+    "title": "2  Akušerska anamneza",
+    "section": "2.62 Četvrti plod u petoj trudnoći - Terimsko/Preterminsko",
+    "text": "2.62 Četvrti plod u petoj trudnoći - Terimsko/Preterminsko\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPreterminsko\n\n\n2\nTerminsko"
+  },
+  {
+    "objectID": "antenatalna.html#datum-rođenja-majke",
+    "href": "antenatalna.html#datum-rođenja-majke",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.1 Datum rođenja majke",
+    "text": "3.1 Datum rođenja majke\nTip vrednosti: Datum. Format je DD/MM/GGGG"
+  },
+  {
+    "objectID": "antenatalna.html#stručna-sprema-majke",
+    "href": "antenatalna.html#stručna-sprema-majke",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.2 Stručna sprema majke",
+    "text": "3.2 Stručna sprema majke\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nBez osnovnog obrazovanja\n\n\n2\nOsnovna škola\n\n\n3\nSrednja škola\n\n\n4\nVisoka/ Viša škola"
+  },
+  {
+    "objectID": "antenatalna.html#opština-prebivališta-majke",
+    "href": "antenatalna.html#opština-prebivališta-majke",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.3 Opština prebivališta majke",
+    "text": "3.3 Opština prebivališta majke\nTip vrednosti: Šifarnik"
+  },
+  {
+    "objectID": "antenatalna.html#telesna-visina-majke-u-cm",
+    "href": "antenatalna.html#telesna-visina-majke-u-cm",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.4 Telesna visina majke (u cm)",
+    "text": "3.4 Telesna visina majke (u cm)\nTip vrednosti: Ceo broj. Broj veći ili jednak od 50 i manji od 250."
+  },
+  {
+    "objectID": "antenatalna.html#telesna-težina-majke-u-kg",
+    "href": "antenatalna.html#telesna-težina-majke-u-kg",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.5 Telesna težina majke (u kg)",
+    "text": "3.5 Telesna težina majke (u kg)\nTip vrednosti: Ceo broj. Broj veći ili jednak od 30 i manji od 250."
+  },
+  {
+    "objectID": "antenatalna.html#indeks-telesne-mase-majke-bmi",
+    "href": "antenatalna.html#indeks-telesne-mase-majke-bmi",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.6 Indeks telesne mase majke (BMI)",
+    "text": "3.6 Indeks telesne mase majke (BMI)\nTip vrednosti: Broj. Izračunava se automatski preko formule:\n\\[ BMI = { (telesna \\space masa \\space majke) \\over ((telesna \\space visina \\space majke)/100)^2} \\]"
+  },
+  {
+    "objectID": "antenatalna.html#krvne-grupa-majke",
+    "href": "antenatalna.html#krvne-grupa-majke",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.7 Krvne grupa majke",
+    "text": "3.7 Krvne grupa majke\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nA\n\n\n2\nB\n\n\n3\nAB\n\n\n4\n0"
+  },
+  {
+    "objectID": "antenatalna.html#aloimunizacija",
+    "href": "antenatalna.html#aloimunizacija",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.8 Aloimunizacija",
+    "text": "3.8 Aloimunizacija\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nRh D\n\n\n2\nKell\n\n\n3\nOstali Rh"
+  },
+  {
+    "objectID": "antenatalna.html#tip-začeća",
+    "href": "antenatalna.html#tip-začeća",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.9 Tip začeća",
+    "text": "3.9 Tip začeća\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nPrirodno\n\n\n2\nIVF/ ET"
+  },
+  {
+    "objectID": "antenatalna.html#broj-antenatalnih-poseta",
+    "href": "antenatalna.html#broj-antenatalnih-poseta",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.10 Broj antenatalnih poseta",
+    "text": "3.10 Broj antenatalnih poseta\nTip vrednosti: Ceo broj"
+  },
+  {
+    "objectID": "antenatalna.html#skirning-majke-na-infekcije-u-trudnoći",
+    "href": "antenatalna.html#skirning-majke-na-infekcije-u-trudnoći",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.11 Skirning majke na infekcije u trudnoći",
+    "text": "3.11 Skirning majke na infekcije u trudnoći\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#skirning-majke-na-hiv",
+    "href": "antenatalna.html#skirning-majke-na-hiv",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.12 Skirning majke na HIV",
+    "text": "3.12 Skirning majke na HIV\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nSproveden- Dokazana infekcija\n\n\n2\nSproveden- Nije dokazana infekcija\n\n\n3\nSproveden- Nepoznat rezultat\n\n\n4\nNije sproveden"
+  },
+  {
+    "objectID": "antenatalna.html#skirning-majke-na-hepatitis-b",
+    "href": "antenatalna.html#skirning-majke-na-hepatitis-b",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.13 Skirning majke na Hepatitis B",
+    "text": "3.13 Skirning majke na Hepatitis B\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nSproveden- Dokazana infekcija\n\n\n2\nSproveden- Nije dokazana infekcija\n\n\n3\nSproveden- Nepoznat rezultat\n\n\n4\nNije sproveden"
+  },
+  {
+    "objectID": "antenatalna.html#skirning-majke-na-sifilis",
+    "href": "antenatalna.html#skirning-majke-na-sifilis",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.14 Skirning majke na Sifilis",
+    "text": "3.14 Skirning majke na Sifilis\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nSproveden- Dokazana infekcija\n\n\n2\nSproveden- Nije dokazana infekcija\n\n\n3\nSproveden- Nepoznat rezultat\n\n\n4\nNije sproveden"
+  },
+  {
+    "objectID": "antenatalna.html#skirning-majke-na-torch",
+    "href": "antenatalna.html#skirning-majke-na-torch",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.15 Skirning majke na TORCH",
+    "text": "3.15 Skirning majke na TORCH\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nSproveden- Dokazana infekcija\n\n\n2\nSproveden- Nije dokazana infekcija\n\n\n3\nSproveden- Nepoznat rezultat\n\n\n4\nNije sproveden"
+  },
+  {
+    "objectID": "antenatalna.html#skirning-majke-na-gbs",
+    "href": "antenatalna.html#skirning-majke-na-gbs",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.16 Skirning majke na GBS",
+    "text": "3.16 Skirning majke na GBS\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nSproveden- Dokazana infekcija\n\n\n2\nSproveden- Nije dokazana infekcija\n\n\n3\nSproveden- Nepoznat rezultat\n\n\n4\nNije sproveden"
+  },
+  {
+    "objectID": "antenatalna.html#pušenje-tokom-trudnoće",
+    "href": "antenatalna.html#pušenje-tokom-trudnoće",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.17 Pušenje tokom trudnoće",
+    "text": "3.17 Pušenje tokom trudnoće\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#da-li-je-majka-konzumirala-alkohol-tokom-trudnoće",
+    "href": "antenatalna.html#da-li-je-majka-konzumirala-alkohol-tokom-trudnoće",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.18 Da li je majka konzumirala alkohol tokom trudnoće",
+    "text": "3.18 Da li je majka konzumirala alkohol tokom trudnoće\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#da-li-je-majka-koristila-psihoaktivne-supstance-tokom-trudnoće",
+    "href": "antenatalna.html#da-li-je-majka-koristila-psihoaktivne-supstance-tokom-trudnoće",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.19 Da li je majka koristila psihoaktivne supstance tokom trudnoće",
+    "text": "3.19 Da li je majka koristila psihoaktivne supstance tokom trudnoće\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#da-li-je-majka-koristila-teratogene-lekove-fda-kategorije-d-i-x-tokom-trudnoće",
+    "href": "antenatalna.html#da-li-je-majka-koristila-teratogene-lekove-fda-kategorije-d-i-x-tokom-trudnoće",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.20 Da li je majka koristila teratogene lekove (FDA kategorije D i X) tokom trudnoće",
+    "text": "3.20 Da li je majka koristila teratogene lekove (FDA kategorije D i X) tokom trudnoće\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#da-li-je-majka-koristila-teratogene-lekove-fda-kategorije-d-i-x-u-prvom-trimestru-trudnoće",
+    "href": "antenatalna.html#da-li-je-majka-koristila-teratogene-lekove-fda-kategorije-d-i-x-u-prvom-trimestru-trudnoće",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.21 Da li je majka koristila teratogene lekove (FDA kategorije D i X) u prvom trimestru trudnoće",
+    "text": "3.21 Da li je majka koristila teratogene lekove (FDA kategorije D i X) u prvom trimestru trudnoće\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#da-li-je-majka-koristila-teratogene-lekove-fda-kategorije-d-i-x-posle-prvog-trimestra-trudnoće",
+    "href": "antenatalna.html#da-li-je-majka-koristila-teratogene-lekove-fda-kategorije-d-i-x-posle-prvog-trimestra-trudnoće",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.22 Da li je majka koristila teratogene lekove (FDA kategorije D i X) posle prvog trimestra trudnoće",
+    "text": "3.22 Da li je majka koristila teratogene lekove (FDA kategorije D i X) posle prvog trimestra trudnoće\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#majka-se-lečila-zbog-zavisnosti-od",
+    "href": "antenatalna.html#majka-se-lečila-zbog-zavisnosti-od",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.23 Majka se lečila zbog zavisnosti od…",
+    "text": "3.23 Majka se lečila zbog zavisnosti od…\nTip vrednosti: Tekst"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.24 Postojeće obolenje pre trudnoće",
+    "text": "3.24 Postojeće obolenje pre trudnoće\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće---hta-hronična",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće---hta-hronična",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.25 Postojeće obolenje pre trudnoće - HTA hronična",
+    "text": "3.25 Postojeće obolenje pre trudnoće - HTA hronična\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće---pregestacijski-dijabetes-melitus",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće---pregestacijski-dijabetes-melitus",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.26 Postojeće obolenje pre trudnoće - Pregestacijski Dijabetes Melitus",
+    "text": "3.26 Postojeće obolenje pre trudnoće - Pregestacijski Dijabetes Melitus\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće---epilepsija",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće---epilepsija",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.27 Postojeće obolenje pre trudnoće - Epilepsija",
+    "text": "3.27 Postojeće obolenje pre trudnoće - Epilepsija\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće---trombofilija-fii",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće---trombofilija-fii",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.28 Postojeće obolenje pre trudnoće - Trombofilija FII",
+    "text": "3.28 Postojeće obolenje pre trudnoće - Trombofilija FII\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće---trombofilija-f-v-leiden",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće---trombofilija-f-v-leiden",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.29 Postojeće obolenje pre trudnoće - Trombofilija F V Leiden",
+    "text": "3.29 Postojeće obolenje pre trudnoće - Trombofilija F V Leiden\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće---bolesti-srca",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće---bolesti-srca",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.30 Postojeće obolenje pre trudnoće - Bolesti srca",
+    "text": "3.30 Postojeće obolenje pre trudnoće - Bolesti srca\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće---trombofilija-aps",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće---trombofilija-aps",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.31 Postojeće obolenje pre trudnoće - Trombofilija APS",
+    "text": "3.31 Postojeće obolenje pre trudnoće - Trombofilija APS\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće---bolesti-bubrega",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće---bolesti-bubrega",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.32 Postojeće obolenje pre trudnoće - Bolesti bubrega",
+    "text": "3.32 Postojeće obolenje pre trudnoće - Bolesti bubrega\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće---sle",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće---sle",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.33 Postojeće obolenje pre trudnoće - SLE",
+    "text": "3.33 Postojeće obolenje pre trudnoće - SLE\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće---astma-bronchiale",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće---astma-bronchiale",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.34 Postojeće obolenje pre trudnoće - Astma bronchiale",
+    "text": "3.34 Postojeće obolenje pre trudnoće - Astma bronchiale\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  },
+  {
+    "objectID": "antenatalna.html#postojeće-obolenje-pre-trudnoće---psihijatrijska-obolenja",
+    "href": "antenatalna.html#postojeće-obolenje-pre-trudnoće---psihijatrijska-obolenja",
+    "title": "3  Antenatalna zdravstvena zaštita",
+    "section": "3.35 Postojeće obolenje pre trudnoće - Psihijatrijska obolenja",
+    "text": "3.35 Postojeće obolenje pre trudnoće - Psihijatrijska obolenja\nTip vrednosti: Šifarnik\n\n\n\nKod\nNaziv\n\n\n\n\n1\nDa\n\n\n2\nNe"
+  }
+]
